@@ -8,20 +8,20 @@
 
 ***Исходные данные:***
 
-• Индивидуальное задание на разработку
-• Документация по Spring Framework и JEE
-• Документация по языку Java (версия не ниже 8)
+- Индивидуальное задание на разработку
+- Документация по Spring Framework и JEE
+- Документация по языку Java (версия не ниже 8)
 
 ***Инструменты и технологии для использования:***
 
-• JDK
-• Создание Spring MVC web-приложений
-• Spring ORM или Spring DAO
-• H2 Database Engine
-• Liquibase
-• Gradle
-• GitHub
-• IntelliJIDEA
+- JDL
+- Создание Spring MVC web-приложений
+- Spring ORM или Spring DAO
+- H2 Database Engine
+- Liquibase
+- Gradle
+- GitHub
+- IntelliJIDEA
 
 *Перечень вопросов, подлежащих разработке, и обязательного графического материала:*
 
